@@ -1,7 +1,7 @@
 # SMARTCOM webpage
 
 The webpage consists of 4 parts: 
-- Header with main tag lineю
+- Header with main tag line.
 - Service section, where brief information about services is presented.
 - Sales, which lists available products (computers, gaming accessories, printers, etc.).
 - Contacts with working hours.
